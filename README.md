@@ -1,4 +1,6 @@
-# FRCDesign.org Swerve Chassis Drivetrain CAD Practice
+# FRCDesign.org Swerve Chassis Drivetrain CAD Practice 
+
+Design from [FRCDesign.org](https://frcdesign.org/)
 
 An interactive 3D CAD of an FRC (FIRST Robotics Competition) chassis featuring MK4N swerve modules, custom-cut structural aluminum extrusion tubing, and standardized fastening layouts.
 
